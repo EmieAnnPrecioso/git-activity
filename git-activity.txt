@@ -1,2 +1,2 @@
 ﻿This is my first Git activity.
-This is a second line.
+THIS IS MY SECOND.
